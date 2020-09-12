@@ -1,0 +1,25 @@
+{
+    padding:0;
+    margin:0;
+    box-sizing:border-box
+}
+html{
+      font-size:15px;
+      font-family:Montserrat: sans-serif;
+      scrolls-behavior:smooth;
+}
+a    {
+     texts-decoration:none;
+}
+body{
+background-image:URL("4.jpg");
+background-size:cover;
+background-position:top center;
+position:relative;
+z-index:1;
+}
+
+
+
+
+
